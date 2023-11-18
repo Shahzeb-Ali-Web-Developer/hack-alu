@@ -1,7 +1,7 @@
 # hack-alu
 This repository contains a simple implementation of a HACK ALU (Arithmetic Logic Unit) in Python. The ALU supports basic arithmetic and logic operations such as addition, subtraction, AND, OR, XOR, and NOT.
 
-ALU Operations
+>> ALU Operations
 The ALU supports the following operations:
 
 Addition: Control Bits 000000
@@ -11,7 +11,7 @@ OR: Control Bits 000011
 XOR: Control Bits 000100
 NOT (Operand 1): Control Bits 000101
 
-Example Usage:
+>> Example Usage:
 
 Enter Operand 1 (8 bits): 10101100
 Enter Operand 2 (8 bits): 11011010
